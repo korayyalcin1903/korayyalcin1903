@@ -1,5 +1,12 @@
 # 💫 About Me:
-😎Hello My name is Koray. I'm Full Stack Web Developer.<br>💻C#, .Net Core, React, Typescript, HTML, CSS, Bootstrap, Javascript
+😎Hello My name is Koray. I'm Full Stack Developer.<br>
+• Backend: .NET Core, C#, ASP.NET, Web API, WCF, SOAP, REST <br>
+• Frontend: React, TypeScript, OpenLayers, Leaflet, MUI, Vite, Bootstrap <br>
+• Architecture: Onion, CQRS, N-tier, Modular Monolith, DDD, Microservices <br>
+• Databases: PostgreSQL, PostGIS, Oracle, SQL Server, MongoDB, EF Core, Dapper <br>
+• Messaging & Infra: RabbitMQ, Redis <br>
+• Tools: Git, Docker, Postman, Swagger <br>
+• Other: MIS, GIS, GeoServer, Smart Cities, spatial queries, spatial data
 
 
 ## 🌐 Socials:
