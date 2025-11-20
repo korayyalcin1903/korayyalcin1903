@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎Hello My name is Koray. I'm Full Stack Web Developer.<br>💻HTML, CSS, Bootstrap, Javascript, React, Python, .Net, C#, Node.js
+😎Hello My name is Koray. I'm Full Stack Web Developer.<br>💻C#, .Net Core, React, Typescript, HTML, CSS, Bootstrap, Javascript
 
 
 ## 🌐 Socials:
